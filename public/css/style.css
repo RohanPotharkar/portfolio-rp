@@ -1,0 +1,9 @@
+@theme {
+  --font-sans: InterVariable, sans-serif;
+}
+
+@import "tailwindcss";
+
+.navbarStyle {
+  background-color: #712CF9;
+}
