@@ -4,17 +4,17 @@ const features = [
   {
     name: 'Frontend.',
     description:
-      'HTML, CSS, JavaScript, React.js, React Native, Bootstrap, NativeBase, React Native Paper',
+      'HTML, CSS, JavaScript, Typescript, Bootstrap, Tailwind CSS, Next.js, React.js, React Native, NativeBase, React Native Paper',
     icon: CloudArrowUpIcon,
   },
   {
     name: 'Backend.',
-    description: 'Node.js, Express.js, MongoDB, NoSQL, SQL, AWS, Firebase',
+    description: 'Node.js, Express.js, MongoDB, NoSQL, MongoDB Atlas, Cloud Services',
     icon: LockClosedIcon,
   },
   {
     name: 'Tools.',
-    description: 'Git, GitHub, Visual Studio Code, NPM, MongoDB Atlas, Heroku, Render, Postman, CorelDraw, AutoCAD, Adobe Photoshop',
+    description: 'Git, GitHub, Visual Studio Code, NPM, Heroku, Render, Postman, Google Play Console',
     icon: ServerIcon,
   },
 ]

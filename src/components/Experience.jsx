@@ -2,7 +2,7 @@ import { CheckIcon } from '@heroicons/react/20/solid'
 
 const tiers = [
   {
-    name: 'November 2021 – June 2022',
+    name: 'November 2020 – Feb 2021',
     id: 'tier-hobby',
     href: 'https://linkedin.com/in/rohanpotharkar',
     priceMonthly: 'Laboratory Assistant',
@@ -11,15 +11,14 @@ const tiers = [
     featured: false,
   },
   {
-    name: 'July 2022 - Jan 2025',
+    name: 'Feb 2021 - April 2025',
     id: 'tier-enterprise',
     href: 'https://linkedin.com/in/rohanpotharkar',
     priceMonthly: 'FullStack Developer',
-    description: 'Vikas Event Management',
+    description: 'Event Management',
     features: [
-      'Built full stack web applications, iOS & android apps using React.js, React Native, Node.js, Express.js, MongoDB, NoSQL, ensuring smooth user experience across all pages like home, services, bookings, about, contact, etc.',
+      'Built full stack applications using HTML, CSS, JavaScript, Typescript, Bootstrap, Tailwind CSS, React.js, React Native, Node.js, Express.js, MongoDB, NoSQL, ensuring smooth user experience across all pages like home, services, bookings, about, contact, etc.',
       'Integrated real-time data API to fetch and display dynamic event details, improving user engagement.',
-      'Enhanced website performance by implementing effi cient routing and server-side validation for improved security and scalability.',
     ],
     featured: true,
   },

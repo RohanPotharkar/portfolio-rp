@@ -2,19 +2,23 @@ import { CheckIcon } from '@heroicons/react/20/solid'
 
 const tiers = [
   {
-    name: 'Amazon.com UI Clone',
+    name: 'Sorat Collection – Android App',
     id: 'tier-hobby',
-    href: 'https://github.com/rohanpotharkar',
-    description: "Tech Stack: HTML, CSS",
-    features: ["Built a pixel-perfect clone of Amazon's user interface using only HTML and CSS. This project replicates the layout, navigation, and styling of the e-commerce giant, featuring a responsive design, a structured product grid, and a sleek header/footer. It showcases my front-end development skills, focusing on clean code, responsiveness, and attention to detail.",],
+    href: 'https://play.google.com/store/apps/details?id=com.rohanpotharkarofficial.soratcollection',
+    description: "Tech Stack: React Native, JavaScript, Node.js, CSS, Expo, Google Play Console",
+    features: ["Developed a fully functional Android app for a clothing business, allowing users to browse, track, and shop for ladies dress materials and readymades.",
+      "Integrated four interactive modules: Shopping Notes, Dress Gallery, Calculator, Buy Policy Section",
+      "Uploaded the app independently on Google Play Store and implemented multiple feature updates based on closed-user feedback.",
+      "Improved user retention by providing a clean UI/UX, and offline product browsing without any login or payment hurdles",
+    ],
     featured: false,
   },
   {
-    name: 'Maharashtra Weather App',
+    name: 'Maharashtra Weather - Web App',
     id: 'tier-enterprise',
-    href: 'https://github.com/rohanpotharkar',
+    href: 'https://maharashtra-weather-app.onrender.com/',
     priceMonthly: '$99',
-    description: 'Tech Stack: HTML, CSS, JavaScript, React, Bootstrap, Node.js, Express.js, MongoDB, NoSQL',
+    description: 'Tech Stack: HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, NoSQL, API, Render, Git, GitHub',
     features: [
       'Built a real-time weather application with 95% forecast accuracy using integrated APIs.',
       'Developed secure authentication system with signup/login validation to prevent unauthorized access to pages like /home, /about, /services and so on.',
@@ -99,7 +103,7 @@ export default function Projects() {
                 'mt-8 block rounded-md px-3.5 py-2.5 text-center text-sm font-semibold focus-visible:outline-2 focus-visible:outline-offset-2 sm:mt-10',
               )}
             >
-              Link
+              App Link
             </a>
           </div>
         ))}

@@ -6,7 +6,7 @@ export default function Navbar() {
          <div className="container-fluid">
             <a className="navbar-brand text-light" href="/">
                <img src="/images/profile.png" alt="Logo" width="30" height="24" className="d-inline-block align-text-top ms-5 me-2 " />
-               portfolio.rp
+               Portfolio
             </a>
          </div>
       </nav>

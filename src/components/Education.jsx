@@ -18,7 +18,7 @@ export default function Education() {
                         <svg width={3} height={3} viewBox="0 0 2 2" aria-hidden="true" className="fill-gray-900">
                            <circle r={1} cx={1} cy={1} />
                         </svg>
-                        <div className="text-gray-600">Software Engineer</div>
+                        <div className="text-gray-600">Software Developer</div>
                      </div>
                   </figcaption>
                </figure>
